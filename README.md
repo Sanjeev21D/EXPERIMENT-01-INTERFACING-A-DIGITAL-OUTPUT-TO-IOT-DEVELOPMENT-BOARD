@@ -124,10 +124,10 @@ int main(void)
 ## OUTPUT
 
 
-![Uploading IMG20260211102640.jpg…]()
+![onboard led off](https://github.com/user-attachments/assets/97df0aa9-1512-4ad3-a5f7-b2b6b1c91fea)
 
 
-![Uploading IMG20260211102534.jpg…]()
+![onboard led on](https://github.com/user-attachments/assets/ebda5417-37e7-4908-8a0e-69d301614182)
 
 
 
@@ -154,9 +154,9 @@ int main(void)
  
   while (1)
   {
-	  HAL_GPIO_WritePin(GPIOB,GPIO_PIN_4,GPIO_PIN_SET);
+	  HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_SET);
 	  HAL_Delay(5000);
-	  HAL_GPIO_WritePin(GPIOB,GPIO_PIN_4,GPIO_PIN_RESET);
+	  HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_RESET);
 	  HAL_Delay(5000);
 
 
@@ -167,9 +167,9 @@ int main(void)
 ## OUTPUT
 
 
-![Uploading IMG20260211103123.jpg…]()
+![led off](https://github.com/user-attachments/assets/ab3a68ff-74f7-4eb4-81a3-0cff71839e24)
 
-![Uploading IMG20260211103119.jpg…]()
+![led on](https://github.com/user-attachments/assets/d85f379f-7728-4adf-9e9e-de75095fb955)
 
 
 
