@@ -124,10 +124,10 @@ int main(void)
 ## OUTPUT
 
 
-![on board led off](https://github.com/user-attachments/assets/fecd17be-4b74-4f3d-b967-2144d730f10b)
+![on board off](https://github.com/user-attachments/assets/ad654aa6-10fb-42f2-a646-e6ea2695d743)
 
 
-![on board led on](https://github.com/user-attachments/assets/8c6f48af-972e-4f58-bcc2-7ea2772cfb64)
+![on board on](https://github.com/user-attachments/assets/f9e82e07-686b-47f7-a625-a3fe477dddc5)
 
 
 
@@ -167,9 +167,9 @@ int main(void)
 ## OUTPUT
 
 
-![led off](https://github.com/user-attachments/assets/ce1eb8c8-8360-4859-9be2-35cef6db5078)
+![off](https://github.com/user-attachments/assets/e111f401-069c-4fdd-8974-8777089b72e8)
 
-![led on](https://github.com/user-attachments/assets/df857cef-56a3-4ae8-9e25-22fc1015fb5f)
+![on](https://github.com/user-attachments/assets/f8f80a78-e732-4d7b-bab3-d7c9e5e597ff)
 
 
 
